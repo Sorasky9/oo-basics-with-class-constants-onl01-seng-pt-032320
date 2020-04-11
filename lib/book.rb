@@ -23,3 +23,5 @@ def genre=(genre)
 end
 
 end
+
+book = Book.new("Book_#{i}")
